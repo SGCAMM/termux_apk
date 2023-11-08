@@ -3,9 +3,6 @@ download termux apk di https://f-droid.org/packages/com.termux/
 pemasangan termux apk melalui playstore telah berhenti jadi silahkan download di link di atas!!!
 
 
-3
-
-
 #  Termux menggabungkan emulasi terminal yang kuat dengan koleksi paket Linux yang ekstensif.
 
 * Nikmati cangkang bash dan zsh.
@@ -38,7 +35,19 @@ pemasangan termux apk melalui playstore telah berhenti jadi silahkan download di
 terminal dan memilih opsi menu Bantuan untuk mempelajari lebih lanjut.
 
 
-@  Baca bantuan online: https://wiki.termux.com/
+Baca bantuan online: https://wiki.termux.com/
 
 
-@  Komunitas Reddit: https://termux.com/community
+Komunitas Reddit: https://termux.com/community
+
+
+versi yg tersedia di f-droid
+
+
+# v0.116.0
+
+
+# v0.117.0
+
+
+# v0.118.0
